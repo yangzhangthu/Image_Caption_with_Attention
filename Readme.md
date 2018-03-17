@@ -4,5 +4,22 @@ This is a Pytorch implementation of "[Show, Attend and Tell: Neural Image Captio
 
 
 
-Example results:
+Some results:
 
+![Example2](./examples/brown_dog.png)
+
+
+
+![Example1](./examples/skier.png)
+
+
+
+![Example1](./examples/swing.png)
+
+
+
+![Example1](./examples/snow_dog_attention.png)
+
+
+
+![Example1](./examples/biker.png)
